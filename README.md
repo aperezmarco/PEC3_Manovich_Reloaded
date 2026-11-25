@@ -1,6 +1,6 @@
 # PEC3: Visionando el futuro con las gafas de Manovich
 Ensayo sobre dos casos actuales de hibridación de medios según Lev Manovich
-EC3 – Manovich Reloaded: nuevas formas de hibridación de los medios
+PEC3 – Manovich Reloaded: nuevas formas de hibridación de los medios
 
 Autora: Andrea Pérez Marcos
 Asignatura: Cultura Digital
@@ -24,13 +24,13 @@ También podemos relacionar ABBA Voyage con la idea del ordenador como metamedio
 
 En mi opinión, lo más interesante de ABBA Voyage es que no utiliza la tecnología únicamente para sustituir a los artistas, sino para ofrecer una experiencia que sería difícil de reproducir mediante un concierto convencional. El público puede disfrutar de una representación digital de ABBA junto a una banda en directo, combinando la nostalgia de la imagen del grupo en los años setenta con las posibilidades actuales de la producción audiovisual. Esto demuestra que la hibridación no consiste solamente en añadir tecnología a un medio existente, sino en transformar sus posibilidades y crear nuevas formas de expresión cultural.
 
-Recursos para consultar:
+**Recursos para consultar**:
 
 [Studio Wayne McGregor – ABBA Voyage](https://abbavoyage.com/?gad_source=1&gad_campaignid=24193953343&gbraid=0AAAAAofvAETLD1e3_UE6iJTUM8uUU99yD&gclid=CjwKCAiAq5rYBhB-EiwAhj1RdrP3Kfz0nPSdUBCYqTA07vy-Z92ZU2KX3jPkNObGami5Mww5kwP7JRoCflIQAvD_BwE)
 
 [Parlamento británico – Connected tech: AI and creative technology](https://publications.parliament.uk/pa/cm5803/cmselect/cmcumeds/1643/report.html)
 
-[NME – How ABBA Voyage was made] (https://www.nme.com/news/music/abba-voyages-creators-hologram-choreography-how-it-was-made-interview-3235706)
+[NME – How ABBA Voyage was made](https://www.nme.com/news/music/abba-voyages-creators-hologram-choreography-how-it-was-made-interview-3235706)
 
 
 ## CASO 2. Pokémon GO: el videojuego que transforma el mundo real en un escenario digital
@@ -47,13 +47,13 @@ La aportación de Pokémon GO está en transformar la cartografía digital en un
 
 Desde mi punto de vista, Pokémon GO resulta especialmente interesante porque cambia la relación que tenemos con nuestro entorno. Un parque, una plaza o una calle pueden convertirse en lugares de exploración y juego. La experiencia depende de dónde se encuentra cada persona, por lo que no todos los jugadores viven exactamente la misma partida. El mundo físico y el digital se complementan hasta el punto de que resulta difícil entender el funcionamiento del juego sin tener en cuenta ambos. Por eso, Pokémon GO constituye un ejemplo de cómo la hibridación puede transformar no solo los medios de entretenimiento, sino también nuestra manera de interactuar con los espacios que habitamos.
 
-Recursos para consultar:
+**Recursos para consultar**:
 
-[Pokémon GO – Anuncio de lanzamiento, Niantic (2016)] (https://www.youtube.com/watch?v=Le5VYoVQaHA)
+[Pokémon GO – Anuncio de lanzamiento, Niantic (2016)](https://www.youtube.com/watch?v=Le5VYoVQaHA)
 
-[Pokémon GO – Reality Blending y escaneo de Poképaradas (2020)] (https://www.centropkmn.com/2020/05/26/niantic-anuncia-reality-blending-para-el-modo-ra-en-pokemon-go-y-comienza-a-crear-un-mapa-3d-de-las-pokeparadas-y-gimnasios/)
+[Pokémon GO – Reality Blending y escaneo de Poképaradas (2020)](https://www.centropkmn.com/2020/05/26/niantic-anuncia-reality-blending-para-el-modo-ra-en-pokemon-go-y-comienza-a-crear-un-mapa-3d-de-las-pokeparadas-y-gimnasios/)
 
-[Centro de ayuda de Pokémon GO – Map View] (https://scopelyexplore.helpshift.com/hc/es/5-pokemon-go/faq/1084-what-is-the-map-view/)
+[Centro de ayuda de Pokémon GO – Map View](https://scopelyexplore.helpshift.com/hc/es/5-pokemon-go/faq/1084-what-is-the-map-view/)
 
 ## Conclusión
 
