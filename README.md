@@ -1,2 +1,75 @@
 # PEC3_Manovich_Reloaded
 Ensayo sobre dos casos actuales de hibridación de medios según Lev Manovich
+EC3 – Manovich Reloaded: nuevas formas de hibridación de los medios
+
+Autora: [Nombre y apellidos]
+Asignatura: Cultura Digital
+Actividad: PEC3
+
+Introducción
+
+En El software toma el mando, Lev Manovich explica cómo el ordenador ha dejado de ser únicamente una herramienta para reproducir medios tradicionales y se ha convertido en un metamedio capaz de combinar diferentes tipos de contenidos, técnicas y lenguajes. Esta transformación ha dado lugar a nuevas formas de creación en las que los medios no se limitan a convivir, sino que se mezclan y se transforman para producir experiencias diferentes. A este proceso lo denomina hibridación.
+
+Partiendo de esta idea, este ensayo analiza dos ejemplos posteriores a la publicación del libro: ABBA Voyage, un espectáculo que combina un concierto musical con tecnología digital, y Pokémon GO, un videojuego que integra el entorno físico mediante la geolocalización y la realidad aumentada. Aunque pertenecen a ámbitos distintos, ambos muestran cómo el software permite transformar las formas tradicionales de entretenimiento y nuestra relación con los medios.
+
+1. ABBA Voyage: la unión de un concierto real y un espectáculo digital
+
+ABBA Voyage es un espectáculo musical estrenado en Londres en mayo de 2022 que propone una nueva forma de experimentar un concierto. En lugar de presentar únicamente a los artistas sobre un escenario, el espectáculo utiliza avatares digitales de los cuatro integrantes de ABBA, recreados con la apariencia que tenían durante la década de 1970. Estos personajes digitales, conocidos como ABBAtars, interpretan las canciones del grupo mientras una banda de diez músicos toca en directo. De esta manera, la propuesta combina elementos propios de un concierto tradicional con recursos tecnológicos procedentes del cine, la animación y los efectos visuales.
+
+Para crear los avatares se utilizó la técnica de captura de movimiento (motion capture). Durante varias semanas, los integrantes del grupo realizaron interpretaciones que permitieron registrar sus movimientos y expresiones. Posteriormente, esos datos se combinaron con el trabajo de dobles corporales y con técnicas de modelado y animación digital desarrolladas por Industrial Light & Magic. El resultado es una representación digital que no se limita a mostrar una imagen de los artistas, sino que reproduce sus movimientos y su forma de actuar sobre el escenario.
+
+Desde la perspectiva de Manovich, este proyecto es un ejemplo claro de hibridación porque distintos medios y técnicas se integran en una misma experiencia. La música, la interpretación corporal, la animación 3D, los efectos visuales, las pantallas LED, la iluminación y la escenografía no funcionan como elementos independientes. Todos están coordinados para construir un espectáculo en el que lo físico y lo digital se complementan. Por tanto, no estamos simplemente ante un concierto acompañado de imágenes proyectadas, sino ante una nueva forma de espectáculo que modifica el concepto tradicional de actuación en directo.
+
+También podemos relacionar ABBA Voyage con la idea del ordenador como metamedio. Como explica Manovich, el software permite trabajar con diferentes tipos de datos, como imágenes, vídeo, sonido y modelos tridimensionales, y combinarlos mediante técnicas digitales. En este caso, los movimientos capturados se convierten en información que puede procesarse y utilizarse para animar modelos digitales. La tecnología hace posible que una actuación registrada previamente forme parte de un espectáculo que se desarrolla en un espacio físico y se acompaña de músicos reales.
+
+En mi opinión, lo más interesante de ABBA Voyage es que no utiliza la tecnología únicamente para sustituir a los artistas, sino para ofrecer una experiencia que sería difícil de reproducir mediante un concierto convencional. El público puede disfrutar de una representación digital de ABBA junto a una banda en directo, combinando la nostalgia de la imagen del grupo en los años setenta con las posibilidades actuales de la producción audiovisual. Esto demuestra que la hibridación no consiste solamente en añadir tecnología a un medio existente, sino en transformar sus posibilidades y crear nuevas formas de expresión cultural.
+
+Recursos para consultar:
+
+Studio Wayne McGregor – ABBA Voyage
+
+Parlamento británico – Connected tech: AI and creative technology
+
+NME – How ABBA Voyage was made
+
+2. Pokémon GO: el videojuego que transforma el mundo real en un escenario digital
+
+Pokémon GO es un videojuego para dispositivos móviles lanzado en julio de 2016 por Niantic en colaboración con The Pokémon Company. Su propuesta consiste en buscar, capturar y entrenar criaturas Pokémon mientras el jugador se desplaza por el mundo real. A diferencia de los videojuegos tradicionales, en los que la acción suele desarrollarse dentro de un espacio completamente virtual, Pokémon GO utiliza las calles, parques y otros lugares cotidianos como parte de su propio escenario de juego.
+
+El funcionamiento del juego combina varias tecnologías y medios digitales. En primer lugar, utiliza la geolocalización del teléfono móvil para conocer la posición del jugador y representarla en un mapa digital. Sobre ese mapa aparecen Pokémon, gimnasios y Poképaradas, que están vinculados a ubicaciones del mundo físico. Además, incorpora realidad aumentada, una tecnología que permite visualizar criaturas virtuales integradas en la imagen captada por la cámara del dispositivo. Así, el jugador puede observar un Pokémon como si estuviera situado delante de él, aunque realmente sea un elemento generado digitalmente.
+
+La hibridación aparece precisamente en la integración de estos elementos. Pokémon GO no es únicamente un videojuego que utiliza un mapa como fondo, ni una aplicación de realidad aumentada que añade imágenes sobre la cámara. Combina las reglas y objetivos propios de un videojuego con datos geográficos, sistemas de localización, cartografía digital y recursos visuales tridimensionales. Además, el desplazamiento físico del jugador forma parte de las mecánicas: caminar permite descubrir nuevos lugares, encontrar criaturas y participar en diferentes actividades. De esta manera, el espacio real deja de ser un simple contexto y se convierte en una parte activa de la experiencia digital.
+
+Esta propuesta puede relacionarse con el concepto de ordenador como metamedio de Manovich. El teléfono móvil funciona como una plataforma capaz de integrar mapas, imágenes, información de localización, interfaces y elementos interactivos. También podemos relacionarlo con las técnicas independientes del medio, ya que el software procesa datos de ubicación y los utiliza para organizar y modificar la experiencia de juego. La información geográfica no se limita a mostrarse, sino que se transforma en reglas, objetivos y oportunidades de interacción.
+
+Es importante señalar que Manovich ya hablaba de mapas y datos de localización en su libro, por lo que la novedad de Pokémon GO no consiste en inventar estos recursos. Su interés está en la manera en que los integra con las mecánicas de un videojuego y con la realidad aumentada para crear una experiencia concreta y cotidiana.
+
+Desde mi punto de vista, Pokémon GO resulta especialmente interesante porque cambia la relación que tenemos con nuestro entorno. Un parque, una plaza o una calle pueden convertirse en lugares de exploración y juego. La experiencia depende de dónde se encuentra cada persona, por lo que no todos los jugadores viven exactamente la misma partida. El mundo físico y el digital se complementan hasta el punto de que resulta difícil entender el funcionamiento del juego sin tener en cuenta ambos. Por eso, Pokémon GO constituye un ejemplo de cómo la hibridación puede transformar no solo los medios de entretenimiento, sino también nuestra manera de interactuar con los espacios que habitamos.
+
+Recursos para consultar:
+
+Pokémon GO – Anuncio de lanzamiento, Niantic (2016)
+
+Pokémon GO – Reality Blending y escaneo de Poképaradas (2020)
+
+Centro de ayuda de Pokémon GO – Map View
+
+Conclusión
+
+Los dos casos analizados muestran cómo la hibridación permite desarrollar nuevas experiencias a partir de la combinación de medios y técnicas diferentes. ABBA Voyage transforma el concierto tradicional mediante la integración de música en directo, captura de movimiento y avatares digitales. Pokémon GO, por su parte, convierte el espacio físico en parte de un videojuego gracias a la geolocalización, la cartografía y la realidad aumentada.
+
+Aunque sus objetivos son distintos, ambos ejemplos reflejan la idea de Manovich de que el software funciona como un metamedio capaz de integrar y transformar los medios existentes. En lugar de limitarse a reproducir formatos anteriores, estas propuestas amplían sus posibilidades y generan nuevas formas de interacción con la cultura digital.
+
+Bibliografía
+
+Manovich, L. (2013). El software toma el mando. Especialmente el capítulo dedicado a la hibridación de los medios.
+
+Niantic. (2016). Break out the sneakers and Poké Balls!. Pokémon GO.
+
+Niantic. (2020). Limited release of Reality Blending and PokéStop scanning coming to AR functionality in select phones. Pokémon GO.
+
+Parlamento británico. Connected tech: AI and creative technology. Estudio del caso ABBA Voyage.
+
+Studio Wayne McGregor. ABBA Voyage.
+
+Trendell, A. (2022). ABBA Voyage’s creators on how it was made – and what’s next. NME
