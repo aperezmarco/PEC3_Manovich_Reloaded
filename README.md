@@ -1,9 +1,11 @@
-# PEC3: Visionando el futuro con las gafas de Manovich
+# PEC3: Manovich en acción: dos ejemplos de hibridación digital
 Ensayo sobre dos casos actuales de hibridación de medios según Lev Manovich
 PEC3 – Manovich Reloaded: nuevas formas de hibridación de los medios
 
 Autora: Andrea Pérez Marcos
+
 Asignatura: Cultura Digital
+
 Actividad: PEC3
 
 ## Introducción
