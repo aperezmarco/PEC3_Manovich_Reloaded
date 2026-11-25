@@ -1,6 +1,5 @@
-# PEC3: Manovich en acción: dos ejemplos de hibridación digital
-Ensayo sobre dos casos actuales de hibridación de medios según Lev Manovich
-PEC3 – Manovich Reloaded: nuevas formas de hibridación de los medios
+# PEC3. Manovich en acción: dos ejemplos de hibridación digital
+### Ensayo sobre dos casos actuales de hibridación de medios según Lev Manovich
 
 Autora: Andrea Pérez Marcos
 
