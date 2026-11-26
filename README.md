@@ -29,7 +29,7 @@ En mi opinión, lo más interesante de ABBA Voyage es que no utiliza la tecnolog
 
 [Studio Wayne McGregor – ABBA Voyage](https://abbavoyage.com/?gad_source=1&gad_campaignid=24193953343&gbraid=0AAAAAofvAETLD1e3_UE6iJTUM8uUU99yD&gclid=CjwKCAiAq5rYBhB-EiwAhj1RdrP3Kfz0nPSdUBCYqTA07vy-Z92ZU2KX3jPkNObGami5Mww5kwP7JRoCflIQAvD_BwE)
 
-[Parlamento británico – Connected tech: AI and creative technology](https://publications.parliament.uk/pa/cm5803/cmselect/cmcumeds/1643/report.html)
+[Vídeo de presentación de ABBA Voyage](https://www.youtube.com/watch?v=iEikjzZO2N8)
 
 [NME – How ABBA Voyage was made](https://www.nme.com/news/music/abba-voyages-creators-hologram-choreography-how-it-was-made-interview-3235706)
 
