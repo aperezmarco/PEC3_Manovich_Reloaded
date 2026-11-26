@@ -15,6 +15,8 @@ Partiendo de esta idea, este ensayo analiza dos ejemplos posteriores a la public
 
 ## CASO 1. ABBA Voyage: la unión de un concierto real y un espectáculo digital
 
+<img width="1200" height="600" alt="667201271e9fc" src="https://github.com/user-attachments/assets/ec461742-93fd-42c5-9723-fcb8121d14cd" />
+
 ABBA Voyage es un espectáculo musical estrenado en Londres en mayo de 2022 que propone una nueva forma de experimentar un concierto. En lugar de presentar únicamente a los artistas sobre un escenario, el espectáculo utiliza avatares digitales de los cuatro integrantes de ABBA, recreados con la apariencia que tenían durante la década de 1970. Estos personajes digitales, conocidos como *ABBAtars*, interpretan las canciones del grupo mientras una banda de diez músicos toca en directo. De esta manera, la propuesta combina elementos propios de un concierto tradicional con recursos tecnológicos procedentes del cine, la animación y los efectos visuales.
 
 Para crear los avatares se utilizó la técnica de captura de movimiento *(motion capture)*. Durante varias semanas, los integrantes del grupo realizaron interpretaciones que permitieron registrar sus movimientos y expresiones. Posteriormente, esos datos se combinaron con el trabajo de dobles corporales y con técnicas de modelado y animación digital desarrolladas por **Industrial Light & Magic**. El resultado es una representación digital que no se limita a mostrar una imagen de los artistas, sino que reproduce sus movimientos y su forma de actuar sobre el escenario.
