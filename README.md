@@ -56,11 +56,11 @@ Desde mi punto de vista, Pokémon GO resulta especialmente interesante porque ca
 
 [Centro de ayuda de Pokémon GO – Map View](https://scopelyexplore.helpshift.com/hc/es/5-pokemon-go/faq/1084-what-is-the-map-view/)
 
-## Conclusión
+## Conclusión y reflexión personal
 
-Los dos casos analizados muestran cómo la hibridación permite desarrollar nuevas experiencias a partir de la combinación de medios y técnicas diferentes. **ABBA Voyage** transforma el concierto tradicional mediante la integración de música en directo, captura de movimiento y avatares digitales. Por otro lado, **Pokémon GO**, convierte el espacio físico en parte de un videojuego gracias a la geolocalización, la cartografía y la realidad aumentada.
+Los dos casos analizados muestran cómo la hibridación permite crear nuevas experiencias combinando diferentes medios y tecnologías. A nivel personal, **ABBA Voyage** me parece una propuesta muy original, ya que soy muy fan del grupo y considero una idea increíble poder volver a disfrutar de ellos en concierto en la actualidad gracias a la tecnología. Por otro lado, he elegido **Pokémon GO** para dar continuidad a mi PEC anterior, *«Del mapa de papel a Google Maps: ¿quién elige tu camino?»*, ya que me interesaba seguir explorando la evolución de los mapas, la cartografía y nuestra forma de relacionarnos con el espacio, esta vez desde la perspectiva de un videojuego.
 
-Aunque sus objetivos son distintos, ambos ejemplos reflejan la idea de Manovich de que el software funciona como un metamedio capaz de integrar y transformar los medios existentes. En lugar de limitarse a reproducir formatos anteriores, estas propuestas amplían sus posibilidades y generan nuevas formas de interacción con la cultura digital.
+Aunque son propuestas muy diferentes, ambas reflejan la idea de Manovich del ordenador como metamedio, capaz de integrar y transformar distintos lenguajes y tecnologías para crear experiencias nuevas. Mientras ABBA Voyage transforma el concepto tradicional de concierto, Pokémon GO convierte los mapas y los espacios cotidianos en parte de un videojuego. En definitiva, estos ejemplos me han permitido comprender que la hibridación no consiste simplemente en juntar diferentes medios, sino en hacer que interactúen para generar algo nuevo.
 
 ## Bibliografía
 
