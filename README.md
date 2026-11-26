@@ -38,6 +38,8 @@ En mi opinión, lo más interesante de ABBA Voyage es que no utiliza la tecnolog
 
 ## CASO 2. Pokémon GO: el videojuego que transforma el mundo real en un escenario digital
 
+<img width="1692" height="1097" alt="Captura de pantalla 2026-11-26 131300" src="https://github.com/user-attachments/assets/3d8e6e49-69ee-43e1-a230-319c6ef5b2e8" />
+
 Pokémon GO es un videojuego para dispositivos móviles lanzado en julio de 2016 por **Niantic** en colaboración con **The Pokémon Company**. Su propuesta consiste en buscar, capturar y entrenar criaturas Pokémon mientras el jugador se desplaza por el mundo real. A diferencia de los videojuegos tradicionales, en los que la acción suele desarrollarse dentro de un espacio completamente virtual, Pokémon GO utiliza las calles, parques y otros lugares cotidianos como parte de su propio escenario de juego.
 
 El funcionamiento del juego combina varias tecnologías y medios digitales. En primer lugar, utiliza la geolocalización del teléfono móvil para conocer la posición del jugador y representarla en un mapa digital. Sobre ese mapa aparecen Pokémon, gimnasios y Poképaradas, que están vinculados a ubicaciones del mundo físico. Además, incorpora realidad aumentada, una tecnología que permite visualizar criaturas virtuales integradas en la imagen captada por la cámara del dispositivo. Así, el jugador puede observar un Pokémon como si estuviera situado delante de él, aunque realmente sea un elemento generado digitalmente.
